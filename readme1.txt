@@ -2,6 +2,7 @@ Name - Thejas.R
             Roshni.A.
 USN - 1PI12IS120
           1PI12IS089
+CSV FILE: Country.csv
 Ques No - 5
 Question Title - You are given a .csv file which has been written in the following format COUNTRY,CAPITAL,POPULATION
 Write a program which reads data from the .csv file and populates it into a .txt file in the form of sentences like:
