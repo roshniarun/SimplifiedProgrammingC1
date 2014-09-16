@@ -1,5 +1,6 @@
 Name - Roshni.A.
 USN - 1PI12IS089
+CSV FILE: countries.csv
 Question No - 5
 Question StatementYou are given a .csv file which has been written in the following format
 COUNTRY,CAPITAL,POPULATION
@@ -17,7 +18,8 @@ and it should populate into the .txt file should be in the form of the following
 The capital of <COUNTRY> is <CAPITAL> with a population of <POPULATION> and the
 language spoken is <LANGUAGE> 
 
-assig3.py contains the code to execute the problem statement and has the changes incorporated in it.
+assign3.py contains the actual working code. It has 2 files. a log file and an output file. 
+It has a dict_reader that will read from the csv file and in the main file it will use command line arguments.
 
 Country.csv - This file consists of a collection of four columns (country,capital,population and language) of various countries
 
