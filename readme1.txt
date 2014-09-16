@@ -8,7 +8,7 @@ Question Title - You are given a .csv file which has been written in the followi
 Write a program which reads data from the .csv file and populates it into a .txt file in the form of sentences like:
 The capital of <COUNTRY> is <CAPITAL> with a population of <POPULATION>.
 Source Code Files-
-asn2.py - This file contains the program written to execute the problem statement
+test2.py - This file contains the program written to execute the problem statement
 Country.csv - This file consists of a collection of three columns (country,capital and population) of various countries
 
 Copy both these files to the same directory and in command line cd to that folder
